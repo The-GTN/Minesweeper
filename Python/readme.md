@@ -1,3 +1,3 @@
 # Minesweeper on Python
 
-Run ''
+Run src/graphicalMain.py to see the project .
