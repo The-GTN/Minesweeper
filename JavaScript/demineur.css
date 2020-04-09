@@ -1,0 +1,32 @@
+body {
+	background-color : #202020;
+	margin : 10px  ;
+	width : 100%;
+	font-family: sans-serif;
+}
+
+td {
+	padding : 20px;
+	background-color : purple;
+	border : solid 2px black;
+	color : white;
+	font-size : 13px ;
+	font-weight : bold ; 
+}
+
+td.mine {
+	background-color : red;
+}
+
+td.safe {
+	background-color : green;
+}
+
+#affiche {
+	background-color : black;
+	color : white;
+	border: solid 3px white;
+	position : absolute;
+	bottom : 50px ;
+	right : 500px;
+}
